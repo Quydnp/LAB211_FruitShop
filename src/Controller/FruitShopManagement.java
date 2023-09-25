@@ -1,7 +1,9 @@
+package Controller;
 
+
+import Model.Fruit;
 import java.util.ArrayList;
 import java.util.HashMap;
-import java.util.Iterator;
 import java.util.Scanner;
 
 /*
